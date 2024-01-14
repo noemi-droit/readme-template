@@ -1,10 +1,9 @@
-# Love Running
+# Hello World
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+Hello World is a site that focuses on the most important factors to small business owners, Our expert team provides the services you need to help you successfully meet your project planning goals in Dublin, Ireland. 
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup]https://noemidroit-newproject-wkihr56neum.ws-eu107.gitpod.io/
 
 ## Features 
 
@@ -13,30 +12,23 @@ In this section, you should go over the different parts of your project, and des
 ### Existing Features
 
 - __Navigation Bar__
-
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+- In this section, the name of the website "Hello World" is in the center and at the top of the page.
+- The other navigation links "Sign Up", "Abou Us", "Clients", and "Contac" are in a green bar at the center of the page.
+- The contrast of the color helps the user easier to find it.
+        
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
-- __The landing page image__
+- __The image__
+- This website has only one image using hero.jpg. The background of the image takes up almost half of the page with a light gray color.
+- In the middle of the image it shows an icon map so that the user knows where we are located. Also, there is a green small bar where the contact number to call us.
+ 
+  - __Our Services__
+  - This section will allow the user to see our services which have three parts "Web design", "Web Applications" and "E-Commerce", each one has an icon and a background color yellow and aligned at the center.
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+- __Form section__
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
-
-- __Club Ethos Section__
-
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
-
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
-
-- __Meetup Times section__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - 
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
