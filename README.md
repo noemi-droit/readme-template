@@ -1,98 +1,80 @@
-# Love Running
+# Hello World Website
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+"Hello World" is a freelance company based in Dublin Ireland. This site hopes to help small and big business owners target  frequent customers. The project hopes to stand out from the competition and improve brand presence on the internet. Our team is experienced. Our team is highly qualified in marketing and web design and provides our clients with twenty-four-hour support, seven days a week.
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
-
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
-
-## Features 
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-### Existing Features
+## Features
 
 - __Navigation Bar__
 
+* At the top left of the page shows the name of the page "Hello World".
+* The navigation links at the right of the page are; Menu, Contact, and Sign up, which link different sections of the page.
+* The font used in this project is from Google Fonts which contrasts with the background.
+* The navigation is clear and the user can easily differentiate every section.
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+<img width="751" alt="image" src="https://github.com/Code-Institute-Solutions/readme-template/assets/150963235/0d64197b-0f07-47c9-bb23-766e83881417">
 
-- __The landing page image__
+- __Hearder__
+* The color chosen for the name of the website is dark.
+* The imagen has level of zoom, which stylise and is more atractive for the user.
+* There is a cover text in a light red color wich shows the user the company has two locations in Docklands and Grand Canal.
+  
+![image](https://github.com/Code-Institute-Solutions/readme-template/assets/150963235/43e44810-0977-4bb5-9d15-803b4359743a)
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+ 
+- __Our Services-"Why work with us? __
+*  This section has two right-about-heading and left-about-heading Support 24/7,Free quote,Right Budget, Get Quaility and One circle-container which is added an image.
+  
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![image](https://github.com/Code-Institute-Solutions/readme-template/assets/150963235/a238175f-0402-4244-8a73-d66663a7793b)
 
-- __Club Ethos Section__
-
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
-
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
 - __Meetup Times section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  *This section will allow the user to see exactly the location and opening hours of "Hello World" offices. Clients can visit the designer in person and discuss costs or support.
+  
+![image](https://github.com/Code-Institute-Solutions/readme-template/assets/150963235/02e88235-3ad1-471b-baa3-04e5c8cbce6b)
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  * The footer section includes links such as Facebook, Twiter, You Tuve, Instagram. The links will open to a new tab to allow easy navigation for the user. 
+  * The footer is valuable to the user as it encourages them to keep connected via social media.
+    
+    <img width="545" alt="image" src="https://github.com/Code-Institute-Solutions/readme-template/assets/150963235/8bcb0355-cb8f-4a25-a261-daac57eaf17b">
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
 - __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-
-- Another feature idea
-
+ Unfortunately I couldn't finish the this section
+  
 ## Testing 
+* The project is reponsive, I tested it in Chrome.
+* I confim that the social medis section is working properly.
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+![image](https://github.com/Code-Institute-Solutions/readme-template/assets/150963235/4f31bb60-5f9a-4228-a53d-9046ff929274)
 
 
 ### Validator Testing 
+I have tried to be careful but HTML and CSS are very sensitive programs.I have learned a lot and it takes time but it will not be impossible to learn. I know I need work harder.
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+ ![image](https://github.com/Code-Institute-Solutions/readme-template/assets/150963235/9664ec73-f431-43ef-bc09-7951215a5213)
+
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  ![image](https://github.com/Code-Institute-Solutions/readme-template/assets/150963235/6ed21699-16d9-4c81-8298-358767abe750)
 
 ### Unfixed Bugs
+I found bugs 
+
+![image](https://github.com/Code-Institute-Solutions/readme-template/assets/150963235/e36211ff-d725-4231-8885-b9d2d0cbb419)
+
 
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+This project was deployed
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
@@ -103,21 +85,18 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 
 ## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+This project is based:
 
 ### Content 
+* Code Institute Love Running video.
+* https://fontawesome.com/search?q=office&o=r&m=free
+* https://www.w3schools.com/html/
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
+* https://fonts.google.com/
+* https://www.pexels.com/photo/crop-man-with-documents-and-laptop-at-table-5424636/ (images)
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
 
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
